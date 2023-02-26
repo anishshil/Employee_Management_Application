@@ -1,4 +1,4 @@
-# Employee_Management_Application
+# Employee Management Application
 Full-stack application for managing employee information
 
 This application provides a user interface for viewing current employees information. You can create a new employee record, edit or delete an existing employee record.
